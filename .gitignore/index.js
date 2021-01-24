@@ -6,4 +6,4 @@ client.once('ready', function () {
         console.log('ready !');
     });
 
-client.login('NzkyMDEzNzc4NDQyOTExNzY0.X-XiTw.ATHbGyzdQ7o73Das0rh1qbEGs6I');
+client.login('ODAyOTQ5MDg3NjgyNDk0NDk1.YA2qnA.8P-6fTc-uG8xJxCj6-habYjGumc');
